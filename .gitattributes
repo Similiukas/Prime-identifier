@@ -1,0 +1,3 @@
+*.python linguist-vendored=false
+*.html linguist-vendored=true
+*.toc linguist-vendored=true
